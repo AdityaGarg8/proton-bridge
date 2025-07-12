@@ -54,7 +54,7 @@ var (
 
 const (
 	// AppName is the name of the product appearing in the request headers.
-	AppName = "other"
+	AppName = "web-mail@5.0.69.14"
 
 	// UpdateName is the name of the product appearing in the update URL.
 	UpdateName = "bridge"
